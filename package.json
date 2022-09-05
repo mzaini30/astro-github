@@ -1,0 +1,28 @@
+{
+  "name": "astro-github",
+  "version": "0.0.1",
+  "description": "Showing the Github Stars badge on Astro",
+  "main": "src/komponen/github.astro",
+  "files": [
+    "src/komponen/github.astro"
+  ],
+  "devDependencies": {
+    "astro": "^1.1.5",
+    "prettier-plugin-astro": "^0.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/astro-github.git"
+  },
+  "keywords": [
+    "astro",
+    "astro-plugin",
+    "astro-component"
+  ],
+  "author": "Zen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzaini30/astro-github/issues"
+  },
+  "homepage": "https://github.com/mzaini30/astro-github#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "astro-github",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Showing the Github Stars badge on Astro",
   "main": "src/komponen/github.astro",
   "files": [
